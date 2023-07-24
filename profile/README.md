@@ -23,12 +23,12 @@ graph TD;
   C --> D[Send Sample to Lab];
   D --> E[Lab Analysis];
   E --> F[Receive Personalized Report];
-  style A fill:#0A6F71;
-  style B fill:#900027;
-  style C fill:#0A6F71;
-  style D fill:#900027;
-  style E fill:#0A6F71;
-  style F fill:#900027;
+  style A fill:#10b6b9;
+  style B fill:#de003c;
+  style C fill:#10b6b9;
+  style D fill:#de003c;
+  style E fill:#10b6b9;
+  style F fill:#de003c;
 ```
 
 Our highly skilled team of young, motivated, and innovative individuals with a solid scientific background is committed to providing a wide range of tests, products, and services. 
