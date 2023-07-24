@@ -16,12 +16,18 @@ Our process is **simple, convenient, and efficient**:
 5. Receive your personalized analysis report with recommendations via email.
 
 ```mermaid
-graph LR
-A[Choose Analysis] --> B[Complete Questionnaire]
-B --> C[Collect Blood Sample]
-C --> D[Send Sample to Lab]
-D --> E[Lab Analysis]
-E --> F[Receive Personalized Report]
+graph TD;
+  A[Choose Analysis] --> B[Complete Questionnaire];
+  B --> C[Collect Blood Sample];
+  C --> D[Send Sample to Lab];
+  D --> E[Lab Analysis];
+  E --> F[Receive Personalized Report];
+  style A fill:#69c;
+  style B fill:#69c;
+  style C fill:#69c;
+  style D fill:#69c;
+  style E fill:#69c;
+  style F fill:#69c;
 ```
 
 Our highly skilled team of young, motivated, and innovative individuals with a solid scientific background is committed to providing a wide range of tests, products, and services. 
