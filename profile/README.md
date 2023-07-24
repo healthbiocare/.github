@@ -1,4 +1,4 @@
-# HealthBioCare: Unlock Your Full Potential
+# Unlock Your Full Potential
 
 Welcome to **HealthBioCare**, your gateway to unlocking the secrets of your unique health profile. 
 Founded in 2011, we specialize in preventive health management through a holistic approach, providing personalized nutrition and lifestyle recommendations based on genetic and epigenetic analyses.
