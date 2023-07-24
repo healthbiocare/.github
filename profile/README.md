@@ -1,4 +1,4 @@
-<img src="hbc_logo_sm.png" alt="company_logo" width="400"/>
+<img src="profile/hbc_logo_sm.png" alt="company_logo" width="400"/>
 
 
 # Unlock Your Full Potential
