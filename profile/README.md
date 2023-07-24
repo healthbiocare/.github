@@ -45,7 +45,7 @@ Are you ready to **unlock** your full potential?
 
 Welcome to the **future** of personalized health management; welcome to **HealthBioCare**.
 
-> Or come and visit us in person:
+<br>
 
 ```geojson
 {
@@ -55,13 +55,10 @@ Welcome to the **future** of personalized health management; welcome to **Health
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.230049, 16.354357]
+        "coordinates": [16.354357, 48.230049]
       },
       "properties": {
         "title": "HealthBioCare office",
-        "marker-color": "#3ca0d3",
-        "marker-size": "large",
-        "marker-symbol": "building"
       }
     }
   ]
