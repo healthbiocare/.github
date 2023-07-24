@@ -22,12 +22,12 @@ graph TD;
   C --> D[Send Sample to Lab];
   D --> E[Lab Analysis];
   E --> F[Receive Personalized Report];
-  style A fill:#69c;
-  style B fill:#69c;
-  style C fill:#69c;
-  style D fill:#69c;
-  style E fill:#69c;
-  style F fill:#69c;
+  style A fill:#0A6F71;
+  style B fill:#900027;
+  style C fill:#0A6F71;
+  style D fill:#900027;
+  style E fill:#0A6F71;
+  style F fill:#900027;
 ```
 
 Our highly skilled team of young, motivated, and innovative individuals with a solid scientific background is committed to providing a wide range of tests, products, and services. 
@@ -58,7 +58,7 @@ Welcome to the **future** of personalized health management; welcome to **Health
         "coordinates": [16.354357, 48.230049]
       },
       "properties": {
-        "title": "HealthBioCare office",
+        "title": "HealthBioCare office"
       }
     }
   ]
