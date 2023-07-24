@@ -38,6 +38,32 @@ As part of our scientific activities, we are dedicated to **cutting-edge researc
 
 We have supported numerous junior scholars on their path to a career in science.
 
-We are more than a company; **we are a community**. 
+We are **more** than a company; **we are a community**. 
 
-Are you ready to **unlock** your full potential? [Contact us](https://eng.healthbiocare.com/contact/) for personal or medical advice, and we'll quickly schedule a nutrition consultation. Welcome to the future of personalized health management, welcome to HealthBioCare.
+Are you ready to **unlock** your full potential? 
+[Contact us](https://eng.healthbiocare.com/contact/) for personal or medical advice, and we'll quickly schedule a nutrition consultation. 
+
+Welcome to the **future** of personalized health management; welcome to **HealthBioCare**.
+
+> Or come and visit us in person:
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.230049, 16.354357]
+      },
+      "properties": {
+        "title": "HealthBioCare office",
+        "marker-color": "#3ca0d3",
+        "marker-size": "large",
+        "marker-symbol": "building"
+      }
+    }
+  ]
+}
+```
