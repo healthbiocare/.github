@@ -1,3 +1,6 @@
+<img src="hbc_logo_sm.png" alt="company_logo" width="400"/>
+
+
 # Unlock Your Full Potential
 
 Welcome to **HealthBioCare**, your gateway to unlocking the secrets of your unique health profile. 
