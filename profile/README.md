@@ -1,6 +1,4 @@
 <img src="profile/hbc_logo_sm.png" alt="company_logo" width="400"/>
-
-
 # Unlock Your Full Potential
 
 Welcome to **HealthBioCare**, your gateway to unlocking the secrets of your unique health profile. 
@@ -51,19 +49,5 @@ Welcome to the **future** of personalized health management; welcome to **Health
 <br>
 
 ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [16.354357, 48.230049]
-      },
-      "properties": {
-        "title": "HealthBioCare office"
-      }
-    }
-  ]
-}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[16.354357,48.230049]},"properties":{"title":"HealthBioCare office","address":"Nußdorfer Straße 67, Vienna, Austria"}}]}
 ```
