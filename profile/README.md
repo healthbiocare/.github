@@ -1,5 +1,9 @@
 <img src="profile/hbc_logo_sm.png" alt="company_logo" width="400"/>
 
+[![HealthBioCare Company Logo](https://healthbiocare.com/wp-content/uploads/2022/05/logo-web.png 'Get to know us better!')](https://healthbiocare.com)
+
+
+
 # Unlock Your Full Potential
 
 Welcome to **HealthBioCare**, your gateway to unlocking the secrets of your unique health profile. 
