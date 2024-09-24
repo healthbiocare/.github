@@ -37,13 +37,13 @@ Our highly skilled team of young, motivated, and innovative individuals with a s
 
 In partnership with international physicians and university groups, we are constantly developing new products to meet the needs of our customers. 
 
-As part of our scientific activities, we are dedicated to **cutting-edge research** on various topics, such as stress and disease prevention, epigenetically active plant extracts, and sports. The results of our studies are regularly published in [peer-reviewed articles](https://eng.healthbiocare.com/publications/).
+As part of our scientific activities, we are dedicated to **cutting-edge research** on various topics, such as stress and disease prevention, epigenetically active plant extracts, and sports. The results of our studies are regularly published in [peer-reviewed articles](https://healthbiocare.com/publikationen/).
 
 We have been supporting numerous junior scholars on their path to a career in science.
 
 ## Are you ready? 
 
-[Contact us](https://eng.healthbiocare.com/contact/) for personal or medical advice, and we'll quickly schedule a nutrition consultation. 
+[Contact us](https://healthbiocare.com/kontakt/) for personal or medical advice, and we'll quickly schedule a nutrition consultation. 
 
 Welcome to the **future** of personalized health management.
 
