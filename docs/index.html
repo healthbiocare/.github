@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>HealthBioCare - Unlock Your Full Potential</title>
+        <style>
+            :root {
+                --primary-color: #79a7a7;
+                --secondary-color: #FF628C;
+                --text-color: #333;
+                --bg-color: #f4f4f4;
+            }
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+            body {
+                font-family: 'Arial', sans-serif;
+                line-height: 1.6;
+                color: var(--text-color);
+                background-color: var(--bg-color);
+            }
+            .container {
+                max-width: 1200px;
+                margin: 0 auto;
+                padding: 0 20px;
+            }
+            header {
+                background-color: #fff;
+                box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+                position: fixed;
+                width: 100%;
+                top: 0;
+                z-index: 1000;
+            }
+            nav {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 20px 0;
+            }
+            .logo img {
+                height: 50px;
+            }
+            .nav-links {
+                display: flex;
+                list-style: none;
+            }
+            .nav-links li {
+                margin-left: 20px;
+            }
+            .nav-links a {
+                text-decoration: none;
+                color: var(--text-color);
+                font-weight: bold;
+                transition: color 0.3s ease;
+            }
+            .nav-links a:hover {
+                color: var(--primary-color);
+            }
+            .hero {
+                background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+                color: #fff;
+                text-align: center;
+                padding: 150px 0 100px;
+            }
+            .hero h1 {
+                font-size: 3rem;
+                margin-bottom: 20px;
+            }
+            .hero p {
+                font-size: 1.2rem;
+                max-width: 600px;
+                margin: 0 auto 30px;
+            }
+            .cta-button {
+                display: inline-block;
+                background-color: #fff;
+                color: var(--primary-color);
+                padding: 12px 30px;
+                border-radius: 30px;
+                text-decoration: none;
+                font-weight: bold;
+                transition: background-color 0.3s ease, color 0.3s ease;
+            }
+            .cta-button:hover {
+                background-color: var(--primary-color);
+                color: #fff;
+            }
+            .section {
+                padding: 80px 0;
+            }
+            .section h2 {
+                text-align: center;
+                margin-bottom: 40px;
+                color: var(--primary-color);
+            }
+            .process-steps {
+                display: flex;
+                justify-content: space-around;
+                flex-wrap: wrap;
+            }
+            .step {
+                text-align: center;
+                max-width: 200px;
+                margin-bottom: 30px;
+            }
+            .step-icon {
+                font-size: 3rem;
+                color: var(--secondary-color);
+                margin-bottom: 15px;
+            }
+            .testimonials {
+                background-color: #fff;
+            }
+            .testimonial {
+                background-color: var(--bg-color);
+                border-radius: 10px;
+                padding: 20px;
+                margin-bottom: 20px;
+            }
+            .testimonial p {
+                font-style: italic;
+                margin-bottom: 10px;
+            }
+            .testimonial-author {
+                font-weight: bold;
+                color: var(--primary-color);
+            }
+            footer {
+                background-color: var(--primary-color);
+                color: #fff;
+                text-align: center;
+                padding: 20px 0;
+            }
+            @media (max-width: 768px) {
+                .nav-links {
+                    display: none;
+                }
+                .hero h1 {
+                    font-size: 2rem;
+                }
+                .hero p {
+                    font-size: 1rem;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <nav class="container">
+                <div class="logo">
+                    <img
+                        src="https://healthbiocare.com/wp-content/uploads/2022/05/logo-web.png"
+                        alt="HealthBioCare Logo"
+                    />
+                </div>
+                <!-- <ul class="nav-links">
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#how-it-works">How It Works</a></li>
+                    <li><a href="#testimonials">Testimonials</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul> -->
+            </nav>
+        </header>
+
+        <main>
+            <section class="hero">
+                <div class="container">
+                    <h1>Unlock Your Full Potential</h1>
+                    <p>
+                        Discover your unique health profile through personalized
+                        genetic and epigenetic analyses.
+                    </p>
+                    <a href="#contact" class="cta-button">Get Started</a>
+                </div>
+            </section>
+
+            <section id="about" class="section">
+                <div class="container">
+                    <h2>About HealthBioCare</h2>
+                    <p>
+                        Founded in 2011, HealthBioCare specializes in preventive
+                        health management through a holistic approach. We
+                        provide personalized nutrition and lifestyle
+                        recommendations based on genetic and epigenetic
+                        analyses, empowering you to make impactful adjustments
+                        to your lifestyle.
+                    </p>
+                </div>
+            </section>
+
+            <section id="how-it-works" class="section">
+                <div class="container">
+                    <h2>How It Works</h2>
+                    <div class="process-steps">
+                        <div class="step">
+                            <div class="step-icon">🔬</div>
+                            <h3>Choose Analysis</h3>
+                            <p>Select from our variety of panels</p>
+                        </div>
+                        <div class="step">
+                            <div class="step-icon">📝</div>
+                            <h3>Questionnaire</h3>
+                            <p>Complete our online or printed form</p>
+                        </div>
+                        <div class="step">
+                            <div class="step-icon">💉</div>
+                            <h3>Blood Sample</h3>
+                            <p>Collect a small blood drop sample</p>
+                        </div>
+                        <div class="step">
+                            <div class="step-icon">📊</div>
+                            <h3>Lab Analysis</h3>
+                            <p>We analyze your sample in our lab</p>
+                        </div>
+                        <div class="step">
+                            <div class="step-icon">📑</div>
+                            <h3>Personalized Report</h3>
+                            <p>
+                                Receive your detailed analysis and
+                                recommendations
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="testimonials" class="section testimonials">
+                <div class="container">
+                    <h2>What Our Clients Say</h2>
+                    <div class="testimonial">
+                        <p>"Testimonial 1."</p>
+                        <div class="testimonial-author">- Sarah M.</div>
+                    </div>
+                    <div class="testimonial">
+                        <p>"Testimonial 2."</p>
+                        <div class="testimonial-author">- John D.</div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="contact" class="section">
+                <div class="container">
+                    <h2>Ready to Start Your Journey?</h2>
+                    <p>
+                        Contact us for personal or medical advice, and we'll
+                        quickly schedule a nutrition consultation.
+                    </p>
+                    <a
+                        href="https://healthbiocare.com/kontakt/"
+                        class="cta-button"
+                        >Contact Us</a
+                    >
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <div class="container">
+                <p>&copy; 2024 HealthBioCare. All rights reserved.</p>
+            </div>
+        </footer>
+    </body>
+</html>
