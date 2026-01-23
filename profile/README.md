@@ -26,12 +26,12 @@ graph TD;
   C --> D[Send Sample to Lab];
   D --> E[Lab Analysis];
   E --> F[Receive Personalized Report];
-  style A fill:#79a7a7;
-  style B fill:#FF628C;
-  style C fill:#79a7a7;
-  style D fill:#FF628C;
-  style E fill:#79a7a7;
-  style F fill:#FF628C;
+  style A fill:#e54d8d;
+  style B fill:#002060;
+  style C fill:#e54d8d;
+  style D fill:#002060;
+  style E fill:#e54d8d;
+  style F fill:#002060;
 ```
 
 ## Why trust us?
@@ -61,7 +61,7 @@ Welcome to the **future** of personalized health management.
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.351853,
+          16.35185,
           48.23434
         ]
       },
