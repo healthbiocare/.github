@@ -26,12 +26,12 @@ graph TD;
   C --> D[Send Sample to Lab];
   D --> E[Lab Analysis];
   E --> F[Receive Personalized Report];
-  style A fill:#e54d8d;
-  style B fill:#002060;
-  style C fill:#e54d8d;
-  style D fill:#002060;
-  style E fill:#e54d8d;
-  style F fill:#002060;
+
+  classDef pink fill:#e54d8d,color:#fff,stroke:#e54d8d;
+  classDef navy fill:#002060,color:#fff,stroke:#002060;
+
+  class A,C,E pink;
+  class B,D,F navy;
 ```
 
 ## Why trust us?
@@ -68,6 +68,19 @@ Welcome to the **future** of personalized health management.
       "properties": {
         "title": "HealthBioCare office",
         "address": "Billrothstrasse 4, 1190, Vienna, Austria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36185,
+          48.23934
+        ]
+      },
+      "properties": {
+        "title": "Viewport helper (ignore)"
       }
     }
   ]
