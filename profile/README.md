@@ -73,14 +73,34 @@ Welcome to the **future** of personalized health management.
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          16.36185,
-          48.23934
+          [
+            [
+              16.34185,
+              48.22934
+            ],
+            [
+              16.36185,
+              48.22934
+            ],
+            [
+              16.36185,
+              48.23934
+            ],
+            [
+              16.34185,
+              48.23934
+            ],
+            [
+              16.34185,
+              48.22934
+            ]
+          ]
         ]
       },
       "properties": {
-        "title": "Viewport helper (ignore)"
+        "title": "Map context (bounds helper)"
       }
     }
   ]
